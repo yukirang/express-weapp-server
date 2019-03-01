@@ -91,8 +91,14 @@
 	],
 	"teams":[
 		{
-			"name":"Mclaren",
-            "image":"Mclaren.jpg",
+			"name":"Mercedes",
+            "first":1954,
+            "head" :"英国",
+            "leader":"Toto",
+            "driver1":"Louis Hamilton",
+            "driver2":"Valtteri Bottas",
+            "website":"	www.mercedes-amg-f1.com",
+            "image":"Mercedes.jpg"
 
 		},
 		{
